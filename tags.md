@@ -19,6 +19,6 @@ The practice of merging all developers working copies to a shared mainline frequ
 
 The systematic application of engineering approaches to the development of software.
 
-## Test-Driven Development
+## Test-driven Development
 
 Software development process based on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases in an automated manner.
