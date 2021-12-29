@@ -8,6 +8,10 @@ Continuous Delivery: Reliable Software Releases through Build, Test, and Deploym
 Jez Humble, David Farley  
 Pearson Education, July 2010
 
+Continuous Delivery with Docker and Jenkins: Create secure applications by building complete CI/CD pipelines  
+Rafal Leszko  
+Packt, May 2019
+
 ## Software Engineering
 
 Modern Software Engineering: Doing What Works to Build Better Software Faster  
