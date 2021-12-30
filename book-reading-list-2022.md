@@ -30,7 +30,7 @@ Cracking the Coding Interview: 189 Programming Questions and Solutions 6th
 Gayle Laakmann McDowell  
 CareerCup, July 2015
 
-The Imposter's Handbook: A CS Primer for Self-Taught Developers
+The Imposter's Handbook: A CS Primer for Self-Taught Developers  
 Rob Conery  
 Big Machine, August 2020
 
