@@ -10,10 +10,14 @@ Pearson Education, July 2010
 
 Continuous Delivery with Docker and Jenkins: Create secure applications by building complete CI/CD pipelines  
 Rafal Leszko  
-Packt, May 2019
+Packt Publishing, May 2019
 
 ## Software Engineering
 
 Modern Software Engineering: Doing What Works to Build Better Software Faster  
 David Farley  
 Addison-Wesley Professional, December 2021
+
+The Software Craftsman: Professionalism, Pragmatism, Pride  
+Sandro Mancuso  
+Financial Times Prentice Hall, December 2014
