@@ -12,7 +12,7 @@ Continuous Delivery with Docker and Jenkins: Create secure applications by build
 Rafal Leszko  
 Packt Publishing, May 2019
 
-## Software Engineering
+## General Software Engineering
 
 Modern Software Engineering: Doing What Works to Build Better Software Faster  
 David Farley  
@@ -25,3 +25,15 @@ Financial Times Prentice Hall, December 2014
 A Philosophy of Software Design, 2nd Edition  
 John Ousterhout  
 Yaknyam Press, July 2021
+
+Cracking the Coding Interview: 189 Programming Questions and Solutions 6th  
+Gayle Laakmann McDowell  
+CareerCup, July 2015
+
+The Imposter's Handbook: A CS Primer for Self-Taught Developers
+Rob Conery  
+Big Machine, August 2020
+
+The Imposter's Handbook: Season 2  
+Rob Conery, Scott Hanselman  
+Big Machine, December 2018
