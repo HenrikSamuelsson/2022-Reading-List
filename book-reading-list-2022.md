@@ -21,3 +21,7 @@ Addison-Wesley Professional, December 2021
 The Software Craftsman: Professionalism, Pragmatism, Pride  
 Sandro Mancuso  
 Financial Times Prentice Hall, December 2014
+
+A Philosophy of Software Design, 2nd Edition  
+John Ousterhout  
+Yaknyam Press, July 2021
