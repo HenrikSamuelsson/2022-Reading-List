@@ -1,4 +1,6 @@
-# Resources
+# References
+
+Links to references material that are helpful.
 
 ## Writing Reviews
 
