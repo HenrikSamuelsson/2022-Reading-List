@@ -23,4 +23,3 @@ Level: Intermediate
 ## Description
 
 David Farley have a background as a software engineer and have made contributions in the field of continuous integration. He shares his expertize through various media such as Youtube, books, and by providing training courses.
-
