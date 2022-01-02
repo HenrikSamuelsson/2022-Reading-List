@@ -24,3 +24,4 @@ Level: Intermediate
 
 David Farley have a background as a software engineer and have made contributions in the field of continuous integration. He shares his expertize through various media such as Youtube, books, and by providing training courses.
 
+In Modern Software Engineering, Farley aims to helps software professionals think about their work more effectively, manage it more successfully, and improve the quality of the code being developed.
