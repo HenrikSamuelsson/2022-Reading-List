@@ -44,6 +44,10 @@ O'Reilly Media, November 2009
 
 ## Test Driven Development
 
-Extreme Programming Explained: Embrace Change
-Kent Beck
+Extreme Programming Explained: Embrace Change  
+Kent Beck  
 Addison-Wesley Professional, October 1999
+
+Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better  
+Jeff Langr  
+Pragmatic Bookshelf, Oct 2013
