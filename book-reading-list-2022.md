@@ -41,3 +41,8 @@ Big Machine, December 2018
 Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman  
 Dave Hoover, Adewale Oshineye  
 O'Reilly Media, November 2009
+
+## Test Driven Development
+
+Extreme Programming
+Kent Beck
