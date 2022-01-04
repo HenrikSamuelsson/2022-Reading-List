@@ -37,3 +37,7 @@ Big Machine, August 2020
 The Imposter's Handbook: Season 2  
 Rob Conery, Scott Hanselman  
 Big Machine, December 2018
+
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman  
+Dave Hoover, Adewale Oshineye  
+O'Reilly Media, November 2009
