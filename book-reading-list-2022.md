@@ -44,5 +44,6 @@ O'Reilly Media, November 2009
 
 ## Test Driven Development
 
-Extreme Programming
+Extreme Programming Explained: Embrace Change
 Kent Beck
+Addison-Wesley Professional, October 1999
