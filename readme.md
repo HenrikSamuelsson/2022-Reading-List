@@ -38,8 +38,16 @@ The Imposter's Handbook: Season 2
 Rob Conery, Scott Hanselman  
 Big Machine, December 2018
 
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman  
+Dave Hoover, Adewale Oshineye  
+O'Reilly Media, November 2009
+
 ## Test Driven Development
 
-Extreme Programming
-Kent Beck
-Addison-Wesley, November 2004
+Extreme Programming Explained: Embrace Change  
+Kent Beck  
+Addison-Wesley Professional, October 1999
+
+Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better  
+Jeff Langr  
+Pragmatic Bookshelf, Oct 2013
