@@ -2,12 +2,12 @@
 
 List of tags used to categorize the books on the list.
 
-[algorithm](#algorithm)  
-[continuous delivery](#continuous-delivery)  
-[continuous integration](#continuous-integration)  
-[soft skills](#soft-skills)  
-[software engineering](#software-engineering)  
-[test-driven development](#test-driven-development)  
+[Algorithm](#algorithm)  
+[Continuous Delivery](#continuous-delivery)  
+[Continuous Integration](#continuous-integration)  
+[Soft Skills](#soft-skills)  
+[Software Engineering](#software-engineering)  
+[Test-Driven Development](#test-driven-development)  
 
 ## Algorithm
 
