@@ -5,6 +5,7 @@ List of tags used to categorize the books on the list.
 [algorithm](#algorithm)  
 [continuous delivery](#continuous-delivery)  
 [continuous integration](#continuous-integration)  
+[soft skills](#soft-skills)  
 [software engineering](#software-engineering)  
 [test-driven development](#test-driven-development)  
 
@@ -15,6 +16,10 @@ Software development practice where code changes are automatically prepared for 
 ## Continuous Integration
 
 The practice of merging all developers working copies to a shared mainline frequently such as several times a day.
+
+## Soft Skills
+
+Soft skills are generally considered non-technical skills that impact the performance in the workplace. One grouping of soft skills characterizes how a person interacts with others, such as for example listening, communication, negotiation, and conflict resolution. Soft skills are also personal traits such as for example critical thinking, adaptability, motivation, positivity, and dependability.
 
 ## Software Engineering
 
