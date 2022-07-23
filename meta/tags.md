@@ -2,7 +2,7 @@
 
 List of tags used to categorize the books on the list.
 
-[algorithm](#algorithm)
+[algorithm](#algorithm)  
 [continuous delivery](#continuous-delivery)  
 [continuous integration](#continuous-integration)  
 [software engineering](#software-engineering)  
