@@ -9,6 +9,10 @@ List of tags used to categorize the books on the list.
 [software engineering](#software-engineering)  
 [test-driven development](#test-driven-development)  
 
+## Algorithm
+
+Process or set of rules to be followed, especially by a computer, that solves a problem in a finite number number of steps.
+
 ## Continuous Delivery
 
 Software development practice where code changes are automatically prepared for a release to production.
@@ -29,6 +33,3 @@ The systematic application of engineering approaches to the development of softw
 
 Software development process based on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases in an automated manner.
 
-## Algorithm
-
-Process or set of rules to be followed, especially by a computer, that solves a problem in a finite number number of steps.
