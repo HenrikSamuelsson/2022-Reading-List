@@ -23,7 +23,7 @@ The practice of merging all developers working copies to a shared mainline frequ
 
 ## Soft Skills
 
-Soft skills are generally considered non-technical skills that impact the performance in the workplace. One grouping of soft skills characterizes how a person interacts with others, such as for example listening, communication, negotiation, and conflict resolution. Soft skills are also personal traits such as for example critical thinking, adaptability, motivation, positivity, and dependability.
+Soft skills are non-technical skills that impact the performance in the workplace. Such as for example teamwork related topics like listening, communication, negotiation, and conflict resolution. Soft skills are also personal traits such as critical thinking, adaptability, motivation, positivity, and dependability.
 
 ## Software Engineering
 
