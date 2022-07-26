@@ -1,10 +1,10 @@
 # Review - Modern Software Engineering
 
-Henrik Samuelsson, 2022 January 01
+Henrik Samuelsson, 2022
 
 ## Abstract
 
-A well worth read for anyone in the software industry that have managed to grasp the basics of software development and now want to take it to the next level. But should also serve as a gentle reminder to highly experienced people on what really works to avoid being stressed out by massive technical debt, missed dead-lines, and long bug lists.
+A well worth read for anyone in the software industry that have managed to grasp the basics of software development and now want to take it to the next level. The book should also serve as a gentle reminder for senior software professionals on what really works, to avoid being stressed out by technical debt, missed dead-lines, and long bug lists.
 
 ## Book Information
 
@@ -44,6 +44,6 @@ Farley comes across to me as he know what he is talking about both from a practi
 
 The material presented is in the book is maybe nothing ground breaking but it is presented in a good and clear way albeit sometimes at a very high level. There is however some deep dives into actual code snippets. The "war stories" that breaks of the ordinary material regularly throughout the book complements the text very well and were both interesting as well as helping out to clarify the material.
 
-All the software companies that I have worked at could greatly improve the quality and efficiency if managing to get everyone to understand and start following the concepts presented in the book. The same goes for me personally I can rarly be disciplined enough to work in the more structured way presented in the book even if it would help me greatly in the long run.
+All the software companies that I have worked at could greatly improve the quality and efficiency if managing to get everyone to understand and start following the concepts presented in the book. The same goes for me personally I can rarely be disciplined enough to work in the more structured way presented in the book even if it would help me greatly in the long run.
 
 A downside about the book is that you can feel a bit like you are left hanging and wonder what to do next now. This is because the book is often written at a high level and lacks details. On the other hand so will this book in the way it is written be able to be relevant for a long time and might even in the future become one of the classic software development books.
