@@ -12,3 +12,7 @@ Title: 12 Essential Skills for Software Architects
 Author: Dave Hendricksen
 
 Pages: 256
+
+Tags: software architecture, software engineering, soft skills
+
+Level: Beginner
