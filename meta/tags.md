@@ -6,6 +6,7 @@ List of tags used to categorize the books on the list.
 [Continuous Delivery](#continuous-delivery)  
 [Continuous Integration](#continuous-integration)  
 [Soft Skills](#soft-skills)  
+[Software Architecture](#software architecture)
 [Software Engineering](#software-engineering)  
 [Test-Driven Development](#test-driven-development)  
 
@@ -23,7 +24,11 @@ The practice of merging all developers working copies to a shared mainline frequ
 
 ## Soft Skills
 
-Soft skills are non-technical skills that impact the performance in the workplace. Such as for example teamwork related topics like listening, communication, negotiation, and conflict resolution. Soft skills are also personal traits such as critical thinking, adaptability, motivation, positivity, and dependability.
+Non-technical skills that impact the performance in the workplace, as for example teamwork related skills like listening, communication, negotiation, and conflict resolution. Soft skills are also personal traits such as critical thinking, adaptability, motivation, positivity, and dependability.
+
+## Software Architecture
+
+Fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
 ## Software Engineering
 
