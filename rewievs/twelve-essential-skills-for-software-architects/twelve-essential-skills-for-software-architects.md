@@ -9,9 +9,14 @@ Having solid hard technical skills is a necessity to be a successful software ar
 ## Book Information
 
 Title: 12 Essential Skills for Software Architects
+
 Author: Dave Hendricksen
 
-Pages: 256
+Publisher: Addison-Wesley Professional, 2011 September
+
+ISBN-13: 978-0321717290
+
+Pages: 288
 
 Tags: software architecture, software engineering, soft skills
 
