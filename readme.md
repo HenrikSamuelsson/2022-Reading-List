@@ -12,7 +12,7 @@ Continuous Delivery with Docker and Jenkins: Create secure applications by build
 Rafal Leszko  
 Packt Publishing, May 2019
 
-## General Software Engineering
+## Software Engineering
 
 Modern Software Engineering: Doing What Works to Build Better Software Faster  
 David Farley  
@@ -51,3 +51,13 @@ Addison-Wesley Professional, October 1999
 Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better  
 Jeff Langr  
 Pragmatic Bookshelf, Oct 2013
+
+## Software Architecture
+
+12 Essential Skills for Software Architects
+Dave Hendricksen  
+Addison-Wesley Professional, September 2011
+
+12 More Essential Skills for Software Architects
+Dave Hendricksen
+Addison-Wesley Professional, August 2014
