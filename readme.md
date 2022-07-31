@@ -58,6 +58,6 @@ Pragmatic Bookshelf, Oct 2013
 Dave Hendricksen  
 Addison-Wesley Professional, September 2011
 
-12 More Essential Skills for Software Architects
-Dave Hendricksen
-Addison-Wesley Professional, August 2014
+12 More Essential Skills for Software Architects  
+Dave Hendricksen  
+Addison-Wesley Professional, August 2014  
