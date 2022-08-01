@@ -15,3 +15,9 @@ ISBN: 978-0321717290
 Pages: 288  
 Tags: software architecture, software engineering, soft skills  
 Level: Beginner  
+
+## Description
+
+The author Dave Hendricksen have decades of experience in software development and have been working with software architecture for more than twenty years.
+
+The goal of the book is to give insight about what soft skills are non-optional for software architects and how to sharpen these skills.
