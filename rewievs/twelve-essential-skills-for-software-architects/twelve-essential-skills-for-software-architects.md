@@ -20,4 +20,23 @@ Level: Beginner
 
 The author Dave Hendricksen have decades of experience in software development and have been working with software architecture for more than twenty years.
 
-The goal of the book is to give insight about what soft skills are non-optional for software architects and how to sharpen these skills.
+The goal of the book is to give insight about what soft skills are valuable for software architects and how to sharpen these skills. As the title hints so are a total of 12 different skills presented and these are placed into three different sets:
+
+- Business Skills
+    - Pragmatism
+    - Vision
+    - Innovation
+    - Business Knowledge
+- Personal Skills
+    - Context Switching
+    - Transparency
+    - Passion
+- Relationship Skills
+    - Leadership
+    - Politics
+    - Gracious Behavior
+    - Politics
+    - Communication
+    - Negotiation
+
+Each skill have its own chapter and the chapters can generally be read in any order. The skill will be given a short introduction in how it relates to software architecture and then principles about the skill is presented about both what to do to become better at the skill and also what to avoid. The tips on what can be done are often very much hands on and easy to implement with check list of what to do, like the tips about smiling and to situp straight at meetings. But the advice can also sometimes be more vague and general or be tips about what you can do more long-term and can take years to implement to completion, example here are tips to establish strategic relationships and trust. Each chapter ends with a summary and a list of resources to learn more if desired.
