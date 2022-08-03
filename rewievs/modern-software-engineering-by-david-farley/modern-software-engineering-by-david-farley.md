@@ -8,21 +8,15 @@ A well worth read for anyone in the software industry that have managed to grasp
 
 ## Book Information
 
-![Picture of book cover](cover-modern-software-engineering-by-david-farley-120-x-149.jpg)
+![book cover](cover-modern-software-engineering-by-david-farley-120-x-149.jpg)
 
 Title: Modern Software Engineering, Doing What Works to Build Better Software Faster  
 Author: David Farley  
-
-Publisher: Addison-Wesley Professional, 2021 December 10  
-
-ISBN-13: 978-0-13-731491-1  
-ISBN-10: 0-13-731491-4  
-
-Pages: 256
-
-Tags: software engineering, continuous integration, test-driven development, software project management
-
-Level: Intermediate
+Publisher: Addison-Wesley Professional, 2021 December 10    
+ISBN: 978-0137314911  
+Pages: 256  
+Tags: software engineering, continuous integration, test-driven development, software project management  
+Level: Intermediate  
 
 ## Description
 
