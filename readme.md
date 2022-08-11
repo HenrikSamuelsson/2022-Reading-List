@@ -54,7 +54,7 @@ Pragmatic Bookshelf, Oct 2013
 
 ## Software Architecture
 
-12 Essential Skills for Software Architects
+12 Essential Skills for Software Architects  
 Dave Hendricksen  
 Addison-Wesley Professional, September 2011
 
