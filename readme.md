@@ -66,6 +66,6 @@ Addison-Wesley Professional, August 2014
 Richard Monson-Haefel  
 O'Reilly Media, March 2009  
 
-Software Architecture in Practice Fourth Edition  
+Software Architecture in Practice, Fourth Edition  
 Len Bass, Paul Clements, Rick Kazman  
 Addison-Wesley Professional, August 2021  
